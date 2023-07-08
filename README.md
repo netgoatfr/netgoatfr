@@ -1,11 +1,10 @@
 ### Hi there 👋
+**Welcome to my page**
+<h3>My name is léo (with a "e" instead of "é" for english peoples)<h3>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aGoatdev)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aGoatdev)
 
 <!--
-**aGoatdev/aGoatdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
