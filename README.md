@@ -1,8 +1,8 @@
 ### Hi there 👋
-**Welcome to my page**
+**Welcome to my pages**
 <h3>My name is léo (with a "e" instead of "é" for english peoples)<h3>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aGoatdev)
+Here is my ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aGoatdev)
 
 <!--
 
