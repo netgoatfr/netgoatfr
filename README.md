@@ -1,8 +1,23 @@
 ### Hi there 👋
 **Welcome to my pages**
-<h3>My name is léo (with a "e" instead of "é" for english peoples)<h3>
+<h3>My name is Léo</h3>
+
 
 Here is my ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aGoatdev)
+
+If you think my work is too good to be unpaid (joke), here is my ko-fi page: https://ko-fi.com/netgoat
+
+My social:
+Discord: netgoat
+
+I'm currently working on a wrapper for minecraft servers and/or proxy.
+My goal is to make it easier for everyone to manage, remotely or not, a minecraft server / a group of server.
+
+For more details, check the wrapper's repos (mcpypanel) or ask me on discord.
+
+
+I'm currently in high-school. 
+
 
 <!--
 
