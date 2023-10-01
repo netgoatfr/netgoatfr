@@ -5,7 +5,7 @@
 
 Here is my ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aGoatdev)
 
-If you think my work is too good to be unpaid (joke), here is my ko-fi page: https://ko-fi.com/netgoat
+If you think my work is too good to be unpaid (joke): [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8P7KVU)
 
 My social:
 Discord: netgoat
