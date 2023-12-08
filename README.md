@@ -2,7 +2,7 @@
 **Welcome to my pages**
 <h3>My name is Léo</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![NetGoatFr's GitHub stats](https://github-readme-stats.vercel.app/api?username=netgoatfr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 If you think my work is too good to be unpaid (joke): [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8P7KVU)
 
