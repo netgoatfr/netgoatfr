@@ -14,6 +14,7 @@ My goal is to make it easier for everyone to manage, remotely or not, a minecraf
 
 For more details, check the wrapper's repos (mcpypanel) or ask me on discord.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 I'm currently in high-school. 
 
