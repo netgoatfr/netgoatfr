@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Welcome to my pages**
 <h3>My name is Léo</h3>
-[NetGoatFr's Stats](https://github-readme-stats.vercel.app/api?username=netgoatfr)
+![NetGoatFr's Stats](https://github-readme-stats.vercel.app/api?username=netgoatfr)
 
 Here is my ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=netgoatfr)
 
