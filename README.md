@@ -17,8 +17,9 @@ For more details, check the wrapper's repos (mcpypanel) or ask me on discord.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netgoatfr&layout=compact)
 
-I'm currently in high-school. 
-My pronoms are he/him 👍
+- I'm currently in high-school. 
+- My pronoms are he/him 👍
+- I'm currently learning hacking and pentesting
 
 <!--
 
