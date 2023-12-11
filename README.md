@@ -7,8 +7,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8P7KVU)
 
-My social:
-Discord: [netgoatfr](https://discord.com/users/netgoatfr)
+Reaxh me on Discord: [netgoatfr](https://discord.com/users/netgoatfr)
 
 I'm currently working on a wrapper for minecraft servers and/or proxy.
 My goal is to make it easier for everyone to manage, remotely or not, a minecraft server / a group of server.
