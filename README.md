@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Welcome to my pages**
+<h2>**Welcome to my pages**</h2>
 <h3>My name is Léo</h3>
 <h4>I'm French</h4>
 
