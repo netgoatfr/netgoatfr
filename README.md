@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2>**Welcome to my pages**</h2>
-<h3>My name is Léo</h3>
+<h3>My name is NetGoatFr</h3>
 <h4>I'm French</h4>
 
 [![NetGoatFr's GitHub stats](https://github-readme-stats.vercel.app/api?username=netgoatfr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
